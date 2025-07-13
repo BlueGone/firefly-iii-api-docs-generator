@@ -22,6 +22,5 @@ UserGroupReadRole:
     - view_reports
     - view_memberships
     - full
-    - owner
   description: >
       The possible roles of the user in this user group are documented here: https://docs.firefly-iii.org/references/firefly-iii/api/
